@@ -18,7 +18,7 @@ public class RemoveDuplicates {
 	for(int k=0;k<word.length;k++)  
 		  {if(word[k]!=null)
        {    	
-    	 System.out.println(word[k]);
+    	 System.out.print(word[k]);
     		
     	} 
 		 
